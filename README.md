@@ -13,19 +13,11 @@ heroku buildpacks:set https://github.com/jincod/dotnetcore-buildpack
 heroku buildpacks:add --index 1 heroku/nodejs
 ```
 
-[Using Multiple Buildpacks for an App](https://devcenter.heroku.com/articles/using-multiple-buildpacks-for-an-app)
-
 ### Heroku Deploy button
 
 Click the button below to set up this sample app on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/QANinjaAcademy/ninjabay)
-
-### Heroku Deploy button
-
-Click the button below to set up this sample app on Heroku:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/QANinjaAcademy/ninjabay)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/weareqaninja/ninjabay)
 
 ## Blog posts
 
